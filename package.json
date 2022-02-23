@@ -18,5 +18,8 @@
   "devDependencies": {
     "mocha": "^3.2.0"
   },
-  "homepage": "https://github.com/yankouskia/additional_5#readme"
+  "homepage": "https://github.com/yankouskia/additional_5#readme",
+  "dependencies": {
+    "jshint": "^2.13.4"
+  }
 }
